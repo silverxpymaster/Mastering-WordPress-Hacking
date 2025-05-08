@@ -1,4 +1,4 @@
-**WordPress-i Həkk Etməyə Hakim Olmaq – Bütün Texnikalar və Alətlər**
+**Mastering WordPress Hacking – All Techniques and Tools**
 
 **1. Saytın WordPress olduğunu necə müəyyənləşdirmək olar:**
 
