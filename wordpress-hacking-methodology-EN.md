@@ -62,7 +62,7 @@ Content-Length: 250
 wpscan --url http://target.com -e at -e ap --api-token=<api_token> --plugins-detection aggressive --force
 ```
 
-You can find CVEs related to the vulnerabilities discovered and write or use available exploits accordingly.
+You can find CVEs related to the vulnerabilities discovered and write or use available exploits accordingly
 
 **8. WordPress Admin Login**
 
