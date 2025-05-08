@@ -2,6 +2,8 @@
 
 This repository provides a comprehensive overview of how WordPress websites are typically hacked — for **educational and ethical** purposes only. It explores real-world attack methods, common vulnerabilities, and security weaknesses often exploited by hackers. Whether you're a cybersecurity student, an ethical hacker, or a WordPress admin, this resource will help you better understand and secure WordPress environments.
 
+![WordPress Hacking Exploit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNcWhqVM7MONYeHC2VGT-hXAe08OA7_d_toGLBGWBjoiYe4WjprFDmirpBP2RYIkZ8ypqw8ALM8d5WB3rosVVG7WnFcoF6zi92nfoaJPFWqIZuG10hZ-gD_9mcZd4CB1uBqKzCur8Ld94/s728-rw-e365/wordpress-hacking-exploit.jpg)
+
 ## What You'll Learn;)
 
 - Common WordPress vulnerabilities
