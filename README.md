@@ -4,6 +4,9 @@ This repository provides a comprehensive overview of how WordPress websites are 
 
 ![WordPress Hacking Exploit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNcWhqVM7MONYeHC2VGT-hXAe08OA7_d_toGLBGWBjoiYe4WjprFDmirpBP2RYIkZ8ypqw8ALM8d5WB3rosVVG7WnFcoF6zi92nfoaJPFWqIZuG10hZ-gD_9mcZd4CB1uBqKzCur8Ld94/s728-rw-e365/wordpress-hacking-exploit.jpg)
 
+[![Watch the video](https://img.youtube.com/vi/gx21nZpvHs8/maxresdefault.jpg)](https://www.youtube.com/watch?v=gx21nZpvHs8)
+
+
 ## What You'll Learn;)
 
 - Common WordPress vulnerabilities
